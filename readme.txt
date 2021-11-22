@@ -1,4 +1,4 @@
-                                ephcom_1.0_beta        By Jiang Tingwei
+                                ephcom_1.0_beta        By xunhou0222
 
 
 1、读取的星历不可以用fortran程序生成的二进制星历文件，而要用eph文件夹里的
